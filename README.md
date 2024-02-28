@@ -1,6 +1,6 @@
 # My Portfolio
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a developer.
-
+![front_page_glimpse](https://github.com/ritwik-9/Ritwik-s-portfolio/assets/56695288/b2825306-6c8f-4bb5-ac5d-e66c6056ea10)
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
